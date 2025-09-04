@@ -1,0 +1,31 @@
+.card {
+padding: 20px;
+border: 1px solid #ccc;
+margin: 20px auto;
+box-sizing: border-box;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+text-align: center;
+background-color: #fff;
+}
+
+.profile-img{
+    border: 3px solid #007bff;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.description{
+    margin: 10px 0 20px;
+}
+
+.contact-bin{
+    padding: 10px 20px;
+    border: 2px solid #28a745;
+    margin-top: 15px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
